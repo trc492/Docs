@@ -1,0 +1,5 @@
+Welcome to Eastside Robotics Alliance.
+
+You can access the project workspace via the URL http://workspace.office.live.com/#eastsidealliance/Teams
+Use the http://eastsideallianceteams.groups.live.com site to start a discussion, collaborate and communicate
+If you need to send email to everybody in the alliance, send it to EastsideAllianceTeams@groups.live.com
